@@ -38,4 +38,4 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/image-resizer-pro.git
+   git clone https://github.com/GojiyaDev/Image_Resizer.git
